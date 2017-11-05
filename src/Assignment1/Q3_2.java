@@ -26,3 +26,30 @@ public class Q3_2 {
 
     }
 }
+
+class leftyPhilo extends philo implements Runnable {
+    public leftyPhilo(Object leftStick, Object rightStick){
+        super(leftStick,rightStick);
+    }
+
+    @Override
+    public void run(){
+        while(true) {
+            try{
+                Thread.sleep((long)Math.random());
+            }
+            catch(Exception ex){}
+            synchronized (rightStick) {
+                System.out.println("Philo " + Thread.currentThread().getName() + " picked up his right chopstick");
+                synchronized (leftStick) {
+                    System.out.println("Philo " + Thread.currentThread().getName() + " picked up his left chopstick and is currently eating");
+                }
+                /*try{
+                    Thread.sleep((long)Math.random());
+                }
+                catch(Exception ex){}*/
+            }
+        }
+    }
+
+}

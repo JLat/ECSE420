@@ -56,6 +56,7 @@ class Philosopher implements Runnable {
                 c1.inUse = true;
                 c2.inUse = true;
                 System.out.println("Philo " + Thread.currentThread().getName() + " is currently eating");
+                //Thread.sleep(((long) Math.random() + 1) * 100);
                 waiter.release();
 
                 c1.inUse = false;
