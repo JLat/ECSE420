@@ -1,9 +1,5 @@
 package Assignment2;
 
-import java.util.concurrent.TimeUnit;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.Lock;
-
 public class Bakery implements Lock{
     boolean [] flag;
     int[] label;
@@ -39,20 +35,4 @@ public class Bakery implements Lock{
         return max;
     }
 
-    //Empty Implementations
-    public boolean tryLock(long l, TimeUnit t) {
-        return false;
-    }
-
-    public boolean tryLock(){
-        return false;
-    }
-
-    public void lockInterruptibly() throws InterruptedException {
-
-    }
-
-    public Condition newCondition(){
-        return null;
-    }
 }
