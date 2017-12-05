@@ -1,47 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42be2420-0af5-4ea2-94a3-c1ead4996e8c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/Chopstick.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/Philosopher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/Q1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/Q2$t1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/Q2$t2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/Q2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/Q3_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/Q3_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/Q3_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/basicPhilo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/leftyPhilo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/multLine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment1/philo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment2/Bakery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment2/Counter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment2/Filter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment2/Lock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment2/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment2/ThreadID$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment2/ThreadID$ThreadLocalID.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Paralel/Assignment2/ThreadID.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Assignment1.zip" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment1/Q1.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment1/Q2.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment1/Q3_1.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q3_1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment1/Q3_2.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q3_2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment1/Q3_3.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q3_3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment2/Bakery.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a2/Bakery.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment2/Counter.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a2/Counter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment2/Filter.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a2/Filter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment2/Lock.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a2/Lock.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment2/Test.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a2/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Assignment2/ThreadID.java" afterPath="$PROJECT_DIR$/src/ca/mcgill/ecse420/a2/ThreadID.java" />
+    <list default="true" id="5c62fb80-0d2a-4db0-8336-6ea549bf7eb6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Assignment3/FineGrained.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Assignment3/Node.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,17 +33,17 @@
         <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/FineGrainedTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+              <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BoundedLockQueue.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BoundedLockQueue.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/BoundedLockQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="-150">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#474#475#0" expanded="true" />
@@ -103,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/BoundedQueueTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
                 <element signature="e#652#653#0" expanded="true" />
                 <element signature="e#688#689#0" expanded="true" />
@@ -122,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="124" column="1" lean-forward="false" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="72" column="54" lean-forward="true" selection-start-line="72" selection-start-column="54" selection-end-line="72" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -150,13 +114,6 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>hashc</find>
@@ -174,46 +131,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test.java" />
-        <option value="$PROJECT_DIR$/src/Q2.java" />
-        <option value="$PROJECT_DIR$/src/Q3_3.java" />
-        <option value="$PROJECT_DIR$/src/Q3.java" />
-        <option value="$PROJECT_DIR$/src/Q3_1.java" />
-        <option value="$PROJECT_DIR$/src/Q3_2.java" />
-        <option value="$PROJECT_DIR$/src/Q1.java" />
-        <option value="$PROJECT_DIR$/src/Assignment1/Q3_3.java" />
-        <option value="$PROJECT_DIR$/src/Assignment1/Q3_1.java" />
-        <option value="$PROJECT_DIR$/src/Assignment1/Q3_2.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Q1.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Q1_1.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/ThreadID.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/TestThreadID.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Lock.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Bakery.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/PrintID.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Count.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Counter.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Filter.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Test.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a2/ThreadID.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q3_3.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a2/Filter.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/BoundedLockQueue.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/Node.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/FineGrained.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/FineGrainedTest.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a2/Test.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/BoundedQueueTest.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/BoundedQueue.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/MatrixMult.java" />
-        <option value="$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q1.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1910" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1244" />
+    <option name="y" value="-21" />
     <option name="width" value="1940" />
-    <option name="height" value="2110" />
+    <option name="height" value="2111" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -241,6 +167,11 @@
             <path>
               <item name="Paralel" type="b2602c69:ProjectViewProjectNode" />
               <item name="Paralel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Paralel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Paralel" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Paralel" type="b2602c69:ProjectViewProjectNode" />
@@ -290,13 +221,6 @@
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents" />
-  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PC\IdeaProjects\Paralel\src\Assignment2" />
@@ -314,102 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MatrixMult">
-    <configuration name="BoundedQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ca.mcgill.ecse420.a3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ca.mcgill.ecse420.a3.BoundedQueueTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Paralel" />
-      <envs />
-    </configuration>
-    <configuration name="FineGrainedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ca.mcgill.ecse420.a3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ca.mcgill.ecse420.a3.FineGrainedTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Paralel" />
-      <envs />
-    </configuration>
-    <configuration name="MatrixMult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ca.mcgill.ecse420.a3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ca.mcgill.ecse420.a3.MatrixMult" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Paralel" />
-      <envs />
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ca.mcgill.ecse420.a2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ca.mcgill.ecse420.a2.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Paralel" />
-      <envs />
-    </configuration>
-    <configuration name="TestThreadID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ca.mcgill.ecse420.a2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Assignment2.TestThreadID" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Paralel" />
-      <envs />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -491,22 +320,6 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestThreadID" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FineGrainedTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BoundedQueueTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MatrixMult" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MatrixMult" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BoundedQueueTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FineGrainedTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestThreadID" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -525,7 +338,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1910" y="0" width="1940" height="2110" extended-state="0" />
+    <frame x="-11" y="-11" width="3862" height="2122" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -536,12 +349,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44381443" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44108605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1616267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.080729164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -599,13 +412,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -894,7 +700,7 @@
     <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/FineGrainedTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -903,26 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/BoundedLockQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/BoundedQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -944,7 +730,7 @@
     <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/BoundedQueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding>
             <element signature="e#652#653#0" expanded="true" />
             <element signature="e#688#689#0" expanded="true" />
@@ -960,88 +746,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q1.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="124" column="1" lean-forward="false" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+        <state relative-caret-position="275">
+          <caret line="528" column="111" lean-forward="true" selection-start-line="528" selection-start-column="111" selection-end-line="528" selection-end-column="111" />
           <folding />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Paralel</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a1/Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="72" column="54" lean-forward="true" selection-start-line="72" selection-start-column="54" selection-end-line="72" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/BoundedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/mcgill/ecse420/a3/BoundedLockQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
